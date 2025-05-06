@@ -55,5 +55,3 @@
 ![codewars](https://www.codewars.com/users/CyberKappa/badges/large)
 
 
- <img height="195px" align="left" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KappaHacker&layout=compact&theme=vision-friendly-dark" />
-
