@@ -13,9 +13,12 @@
 Навыки:
 - проведение ручного функционального тестирования, использование различных техник тест-дизайна (фронт/бек 50 на 50);
 - Написание тестовой документации (чек-листы, тест-кейсы);
+- Проведение демо, пси и других мероприятий;
 - использование в тестировании инструментов Devtools, Charles, Postman, SoapUI, BitviseSSH, Dbeaver, jmeter, GIT, Java, OpenShift, Linux;
 - Автоматизации на java:
+   
    a) Пример проекта на junit, selenide, allure, selenoid - https://github.com/CyberJhin/Ready_Project
+  
    б) Пример проекта на junit, rest assured, allure - https://github.com/CyberJhin/RestAssured_java_example
 Так же для настройки окружения в проектах использовал docker, jenkins, selenoid.
 
